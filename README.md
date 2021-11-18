@@ -6,4 +6,4 @@
 - ❤ Pronouns: He/Him!
 - ❤ Fun fact: I love to eat all types of tacos!
 
-![Luigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prince2005245&show_icons=true&theme=radical)
+![Luigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prince2005245&show_icons=true&theme=dark)
