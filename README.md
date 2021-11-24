@@ -8,6 +8,8 @@
 
 - ❤ Pronouns: He/Him
 
+- ❤ https://my-learning.w3schools.com/ my profile on w3schools
+
 - ❤ Fun fact: I love Cherry Blossom trees
 
 ![flower-flowers](https://user-images.githubusercontent.com/80232309/142354343-be928dd3-ffb6-4ff1-8ab0-8932f19478d0.gif)
